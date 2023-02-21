@@ -178,6 +178,8 @@
 			<Item Name="niedtTP.dll" Type="Document" URL="niedtTP.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="XNEFrame2String.vi" Type="VI" URL="../SignalSenderLoop/subvi/XNEFrame2String.vi"/>
+			<Item Name="test 1.vi" Type="VI" URL="/C/Users/bin.chen/OneDrive - linl/桌面/test 1.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build"/>
 	</Item>
